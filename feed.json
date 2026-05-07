@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://mrdigital.micro.blog/2026/05/06/im-grandpa-again-i-have.html",
+				
+				"content_html": "<p>I&rsquo;m Grandpa again!  I have a new grand baby in my family today.  So excited!</p>\n",
+				"content_text": "I'm Grandpa again!  I have a new grand baby in my family today.  So excited!\n\n",
+				"date_published": "2026-05-06T14:13:07-07:00",
+				"url": "https://www.mrdigital.net/2026/05/06/im-grandpa-again-i-have.html",
+				"tags": ["blog","journal","personal","real-life"]
+			},
+			{
 				"id": "http://mrdigital.micro.blog/2026/05/05/big-news-from-proton-theyre.html",
 				
-				"content_html": "<p>Big news from Proton. They’re introducing post quantum encryption on accounts as an optional upgrade. Including free accounts. See their blog for details.</p>\n<p><a href=\"https://proton.me/blog/introducing-post-quantum-encryption\"></a></p>\n",
-				"content_text": "Big news from Proton. They’re introducing post quantum encryption on accounts as an optional upgrade. Including free accounts. See their blog for details. \n\n[](https://proton.me/blog/introducing-post-quantum-encryption)\n",
+				"content_html": "<p>Big news from Proton. They’re introducing post quantum encryption on accounts as an optional upgrade. Including free accounts. See their blog for details.</p>\n<p><a href=\"https://proton.me/blog/introducing-post-quantum-encryption\">Proton Blog</a></p>\n",
+				"content_text": "Big news from Proton. They’re introducing post quantum encryption on accounts as an optional upgrade. Including free accounts. See their blog for details. \n\n[Proton Blog](https://proton.me/blog/introducing-post-quantum-encryption)\n",
 				"date_published": "2026-05-05T19:15:20-07:00",
 				"url": "https://www.mrdigital.net/2026/05/05/big-news-from-proton-theyre.html",
 				"tags": ["blog","tech","Cybersecurity "]
