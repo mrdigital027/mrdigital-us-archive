@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://mrdigital.micro.blog/2026/05/12/swapping-out-some-keyboard-switches.html",
+				
+				"content_html": "<p>Swapping out some keyboard switches from my old keyboard to my new one. Need my browns.\n#mechanicalkeyboard</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Swapping out some keyboard switches from my old keyboard to my new one. Need my browns. \n#mechanicalkeyboard\n\n\n<img src=\"uploads/2026/2dc503dfb0.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/078dcac2e0.jpg\" width=\"600\" height=\"533\" alt=\"\">\n",
+				"date_published": "2026-05-12T09:39:44-07:00",
+				"url": "https://www.mrdigital.net/2026/05/12/swapping-out-some-keyboard-switches.html"
+			},
+			{
+				"id": "http://mrdigital.micro.blog/2026/05/07/we-saw-a-little-bunny.html",
+				
+				"content_html": "<p>We saw a little bunny in our front lawn this evening.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We saw a little bunny in our front lawn this evening.\n\n\n<img src=\"uploads/2026/img-7359.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-07T19:26:21-07:00",
+				"url": "https://www.mrdigital.net/2026/05/07/we-saw-a-little-bunny.html",
+				"tags": ["personal","real-life"]
+			},
+			{
 				"id": "http://mrdigital.micro.blog/2026/05/06/im-grandpa-again-i-have.html",
 				
 				"content_html": "<p>I&rsquo;m Grandpa again!  I have a new grand baby in my family today.  So excited!</p>\n",
@@ -55,7 +72,7 @@
 				"id": "http://mrdigital.micro.blog/2026/02/27/test-photo-test.html",
 				
 				"content_html": "<p>Test photo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Test photo\n\n<img src=\"uploads/2026/image.jpg\">\n",
+				"content_text": "Test photo\n\n<img src=\"https://cdn.uploads.micro.blog/273565/2026/image.jpg\">\n",
 				"date_published": "2026-02-27T13:55:58-07:00",
 				"url": "https://www.mrdigital.net/2026/02/27/test-photo-test.html",
 				"tags": ["test"]
