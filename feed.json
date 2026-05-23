@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mrdigital.micro.blog/2026/05/23/went-up-into-the-high.html",
+				
+				"content_html": "<p>Went up into the high country today. Took some photos.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Went up into the high country today. Took some photos. \n\n<img src=\"uploads/2026/3c32368b4d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/1bb82fea80.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/e131ac1174.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/c0db5e3d3f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/303a514d8d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/31d665f3eb.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/fea8a73d95.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/96348bcce6.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/0f4c58df7f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-23T13:24:25-07:00",
+				"url": "https://www.mrdigital.net/2026/05/23/went-up-into-the-high.html",
+				"tags": ["personal","Photos"]
+			},
+			{
 				"id": "http://mrdigital.micro.blog/2026/05/12/swapping-out-some-keyboard-switches.html",
 				
 				"content_html": "<p>Swapping out some keyboard switches from my old keyboard to my new one. Need my browns.\n#mechanicalkeyboard</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
